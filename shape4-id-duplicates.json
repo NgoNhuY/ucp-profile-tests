@@ -1,0 +1,1 @@
+{"ucp":{"version":"2026-08-25","services":{"dev.ucp.shopping":[{"version":"2026-08-25","id":"a","transport":"mcp","schema":"https://ucp.dev/2026-08-25/services/shopping/mcp.openrpc.json"},{"version":"2026-08-25","id":"b","transport":"mcp","schema":"https://ucp.dev/2026-08-25/services/shopping/mcp.openrpc.json"}]},"map_order":{"services":["dev.ucp.shopping"]}}}
